@@ -6,10 +6,10 @@ body {
 }
 
 header {
-  background-color: #13110f;
-  color: white;
+  background: url(img/pokeball.png) no-repeat center/cover;
+ 
   text-align: center;
-  padding: 15px;
+  padding: 50px;
   position: relative;
 }
 
